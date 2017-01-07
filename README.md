@@ -2,7 +2,7 @@
 
 # Pre-work - *Tip Calculator*
 
-**tip.php** is a tip calculator PHP page.
+**main.php** is a tip calculator PHP page.
 
 Submitted by: Samman Bikram Thapa
 
