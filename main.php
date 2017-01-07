@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
     <head>
         <title> Tippy </title>
@@ -9,7 +10,7 @@
         <h2>
             Calculate your tip
         </h2>
-        <form>
+        <form action="main.php" action="post">
             <label for="billInput">Bill:  $</label>
             <input type="text">
             <br>
