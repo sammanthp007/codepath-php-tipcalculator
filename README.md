@@ -4,9 +4,9 @@
 
 **tip.php** is a tip calculator PHP page.
 
-Submitted by: **Utsab Khakurel**
+Submitted by: Samman Bikram Thapa
 
-Time spent: **5** hours spent in total
+Time spent: 1 hour spent in total
 
 ## User Stories
 
@@ -20,7 +20,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/5boUOMR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
