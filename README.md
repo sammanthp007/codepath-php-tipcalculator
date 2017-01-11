@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# Pre-work - Tippy
 
 Tippy is a tip calculator PHP page.
 
@@ -8,20 +8,20 @@ Time spent: 3 hours spent in total
 
 ## User Stories
 
-The following **required** functionality is complete:
-[&#10004;] User can enter a bill amount, choose a tip percentage, and submit the form to see the tip and total values.
-[&#10004;] Tip percentage choices use a PHP loop to output three radio buttons.
-[&#10004;] PHP code sets reasonable default values for the form.
-[&#10004;] PHP code confirms the presence and correct format of submitted values.
-[&#10004;] Page indicates any form errors which need to be fixed.
-[&#10004;] Submitted form values are retained when errors or results are shown.
+The following **required** functionality is complete:<br>
+[&#10004;] User can enter a bill amount, choose a tip percentage, and submit the form to see the tip and total values.<br>
+[&#10004;] Tip percentage choices use a PHP loop to output three radio buttons.<br>
+[&#10004;] PHP code sets reasonable default values for the form.<br>
+[&#10004;] PHP code confirms the presence and correct format of submitted values.<br>
+[&#10004;] Page indicates any form errors which need to be fixed.<br>
+[&#10004;] Submitted form values are retained when errors or results are shown.<br>
 
-The following **optional** features are NOT implemented:
-[&#10062;] Add support for custom tip percentage
-[&#10062;] Add support for splitting the tip and total
+The following **optional** features are NOT implemented:<br>
+[&#10062;] Add support for custom tip percentage<br>
+[&#10062;] Add support for splitting the tip and total<br>
 
-The following **additional** features are implemented:
-[&#10004;] Users are required to fill out the form before submitting
+The following **additional** features are implemented:<br>
+[&#10004;] Users are required to fill out the form before submitting<br>
 
 ## Video Walkthrough
 
