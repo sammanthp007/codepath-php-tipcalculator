@@ -13,7 +13,7 @@
             <div>
                 <form action="main.php" method="post">
                     <label for="billInput">Bill:  $</label>
-                    <input type="text" name="billInput" value="<?php echo isset($_POST['billInput']) ? $_POST['billInput'] : NULL; ?>" />
+                    <input type="text" name="billInput" value="<?php echo isset($_POST['billInput']) ? $_POST['billInput'] : NULL; ?>" required/>
                     <br>
                     
                     <label for="tipPercentage">Tip Percentage</label>
@@ -21,7 +21,7 @@
                         $tips = [10, 15, 20];
                         for ($i=0; $i < 3; $i++) {
                     ?>
-                    <input type="radio" name="tipPercentage" value="<?php echo $tips [$i]; ?>"> <?php echo $tips[$i]."%"; ?>
+                    <input type="radio" name="tipPercentage" value="<?php echo $tips [$i]; ?>" required> <?php echo $tips[$i]."%"; ?>
                     <?php
                         }
                     ?>

@@ -9,20 +9,19 @@ Time spent: 3 hours spent in total
 ## User Stories
 
 The following **required** functionality is complete:
-* [&#10004;] User can enter a bill amount, choose a tip percentage, and submit the form to see the tip and total values.
-* [&#10004;] Tip percentage choices use a PHP loop to output three radio buttons.
-* [ ] PHP code sets reasonable default values for the form.
-* [ ] PHP code confirms the presence and correct format of submitted values.
-* [ ] Page indicates any form errors which need to be fixed.
-* [ ] Submitted form values are retained when errors or results are shown.
+[&#10004;] User can enter a bill amount, choose a tip percentage, and submit the form to see the tip and total values.
+[&#10004;] Tip percentage choices use a PHP loop to output three radio buttons.
+[&#10004;] PHP code sets reasonable default values for the form.
+[&#10004;] PHP code confirms the presence and correct format of submitted values.
+[&#10004;] Page indicates any form errors which need to be fixed.
+[&#10004;] Submitted form values are retained when errors or results are shown.
 
 The following **optional** features are NOT implemented:
-* [ ] Add support for custom tip percentage
-* [ ] Add support for splitting the tip and total
+[&#10062;] Add support for custom tip percentage
+[&#10062;] Add support for splitting the tip and total
 
-The following **additional** features are NOT implemented:
-
-* [ ] List anything else that you can get done to improve the functionality!
+The following **additional** features are implemented:
+[&#10004;] Users are required to fill out the form before submitting
 
 ## Video Walkthrough
 
@@ -30,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/sammanthp007/codepath-php-tipcalculator/blob/master/use.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ImageMagick](http://www.imagemagick.org/).
 
 ## Notes
 
