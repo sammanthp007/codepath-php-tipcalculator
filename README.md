@@ -9,8 +9,8 @@ Time spent: 3 hours spent in total
 ## User Stories
 
 The following **required** functionality is complete:
-* [ ] User can enter a bill amount, choose a tip percentage, and submit the form to see the tip and total values.
-* [ ] Tip percentage choices use a PHP loop to output three radio buttons.
+* [&#10004;] User can enter a bill amount, choose a tip percentage, and submit the form to see the tip and total values.
+* [&#10004;] Tip percentage choices use a PHP loop to output three radio buttons.
 * [ ] PHP code sets reasonable default values for the form.
 * [ ] PHP code confirms the presence and correct format of submitted values.
 * [ ] Page indicates any form errors which need to be fixed.
@@ -20,7 +20,7 @@ The following **optional** features are NOT implemented:
 * [ ] Add support for custom tip percentage
 * [ ] Add support for splitting the tip and total
 
-The following **additional** features are implemented:
+The following **additional** features are NOT implemented:
 
 * [ ] List anything else that you can get done to improve the functionality!
 
@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/sammanthp007/codepath-php-tipcalculator/blob/master/use.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
