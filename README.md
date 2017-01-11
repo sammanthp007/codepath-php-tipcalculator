@@ -1,12 +1,10 @@
-# tip_codepath_web
+# Pre-work - *Name of App Here*
 
-# Pre-work - *Tip Calculator*
-
-**main.php** is a tip calculator PHP page.
+Tippy is a tip calculator PHP page.
 
 Submitted by: Samman Bikram Thapa
 
-Time spent: 1 hour spent in total
+Time spent: 3 hours spent in total
 
 ## User Stories
 
@@ -15,12 +13,22 @@ The following **required** functionality is complete:
 * [ ] Tip percentage choices use a PHP loop to output three radio buttons.
 * [ ] PHP code sets reasonable default values for the form.
 * [ ] PHP code confirms the presence and correct format of submitted values.
+* [ ] Page indicates any form errors which need to be fixed.
+* [ ] Submitted form values are retained when errors or results are shown.
+
+The following **optional** features are NOT implemented:
+* [ ] Add support for custom tip percentage
+* [ ] Add support for splitting the tip and total
+
+The following **additional** features are implemented:
+
+* [ ] List anything else that you can get done to improve the functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
